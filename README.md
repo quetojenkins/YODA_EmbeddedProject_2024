@@ -31,9 +31,9 @@ VADER (Versatile Accelerated Digital Encryption Recovery) is a powerful and effi
 - Holly Lewis
 - Matt Pettit
 
-##📄 License
+## 📄 License
 - This project is licensed under the MIT License.
-- 
+  
 ## 🙏 Acknowledgments
 - OpenCL for providing the parallel computing framework
 - Python and Tkinter for the GUI development
