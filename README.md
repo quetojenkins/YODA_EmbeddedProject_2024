@@ -1,6 +1,6 @@
 # 🔐 VADER: Versatile Accelerated Digital Encryption Recovery 🚀
 
-## 📖 Introduction
+ 📖 Introduction
 VADER (Versatile Accelerated Digital Encryption Recovery) is a powerful and efficient tool designed to aid in the recovery of encrypted passwords for legitimate purposes. This project leverages the parallel processing capabilities of GPUs and multi-core CPUs using OpenCL to accelerate the password recovery process significantly.
 
 ## 🔑 Key Features
